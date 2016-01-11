@@ -70,4 +70,5 @@ journal
 ehthumbs.db
 Icon?
 Thumbs.db
-
+/.project
+/.tmp/
